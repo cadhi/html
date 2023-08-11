@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pt-BR"> 
+    <head>
+      <meta charset="UTF-8"/>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title> CLINICA PSICOLOGICA EXISTENCIAL </title>
+     <link rel="stylesheet" type="text/css"  href="estilo.css" />
+    </head>
+    <style>
+      body{
+        background-color: antiquewhite;
+      }
+    </style>
+    <body>
+      <fieldset>
+      <figure>
+      <center>
+        <div><img src="https://www.uel.br/clinicapsicologica/pages/arquivos/Clinica-Psico_horizontal-completa.png" height="100" 
+      </figure> 
+      </fieldset>
+        <header>
+          <div class="menu">
+            <ul>
+                <li><a href="#porque procurar uma ajuda psicologica">porque procurar uma ajuda psicologica</a></li>
+                <li><a href="#o que são abordagens psicologicas">o que são abordagens pscologicas</a></li>
+                <li><a href="#abordagem existencial">abordagem existencial</a></li>
+                <li><a href="#cognitiva comportamental (TCC)">cognitiva comportamental (TCC)</a></li>
+                <li><a href="#geralt-terapia"> geralt-terapia</a></li>
+                <li><a href="#cadastro"target="_blank"> formulario de cadastro </a></li>
+            </ul>
+          </div>
+        </header>
+      <main>
+        <article>
+       <center>   
+      <fieldset>
+          <h1 id="porque procurar uma ajuda psicologica"><strong><a> porque procurar uma ajuda psicologo</a></strong></h1>
+          <p>Na verdade é indicado que você marque uma consulta quando perceber sintomas de medo, tristeza, ansiedade, depressão, raiva, angustia, desânimo e procrastinação começarem a ser constantes em sua vida e que não melhoram com o passar dos meses. Nestes casos, quanto antes você buscar um atendimento especializado melhor.</p>
+          <p>Nesses momentos, contar com ajuda psicológica vai contribuir muito para entender, superar a tristeza da melhor forma possível e mais rapidamente. Quando a situação é traumática, a psicoterapia ajuda a superar o acontecimento e a lidar com isso de forma diferente caso ele ocorra novamente</p>
+      </fieldset>
+       </center>
+      <br>
+      <center>
+      <fieldset>
+      <h1 ><strong> As abordagens que trabalhamos</strong></h1>
+      </center>
+      <br>
+      <center>
+      <fieldset>
+      <h1 id="o que são abordagens psicologicas"><strong>o que que são abordagens psicologicas</strong></h1>
+      <p>Uma abordagem psicológica é um referencial teórico e metodológico para se interpretar o comportamento e a mente. Aqui comportamento se refere a tudo produzido pelo cérebro: emoções, ações, pensamentos, memórias e etc.</p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PbdwQMfhALA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </center>
+      </fieldset>
+      <br>
+      <center>
+      <fieldset>
+             <h1 id="abordagem existencial"> <strong> abordagem existencial fenomenologica</strong></h1>
+             <p>A psicoterapia fenomenológico existencial é uma vertente de psicoterapia que entende a existência humana de maneira singular, sempre em processo e transformação. Compreende que cada pessoa experimenta a vida de maneira particular, partindo dos afetos, livre para fazer escolhas e responsável pelas escolhas que fizer.</p>
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/Zm2nEeP6weo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </fieldset>
+      </center>
+      <br>
+      <center>
+      <fieldset>
+             <h1 id="cognitiva comportamental (TCC)"> <strong> cognitiva comportamental (TCC)</strong></h1>
+             <p>
+              A terapia cognitivo comportamental (TCC) é uma abordagem de tratamento psicológico, baseada na ideia de que pensamentos, emoções, sensações corporais e comportamentos estão conectados. Considerando essa conexão, a TCC afirma que, se mudarmos uma dessas condições, podemos alterar as demais.
+              O objetivo da TCC é compreender a influência de nossa interpretação. O objetivo da terapia cognitiva comportamental é nos mostrar que o que tem influência sobre nós não são diretamente os acontecimentos e situações diárias, mas sim a forma que interpretamos cada uma dessas situações.
+             </p>
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/upYyfAU6ahk?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </fieldset>
+      </center>
+      <br>
+      <center>
+      <fieldset>
+             <h1 id="geralt-terapia"><strong>Gestalt-terapia </strong></h1>
+             <p>O objetivo da Gestalt-terapia é ampliar a awareness. Pela teoria paradoxal da mudança, só se pode mudar, quando se torna aquilo que se é, e não quando se tenta ser algo que não faz parte de si próprio. O Gestalt-terapeuta irá encorajar seu cliente a mergulhar na sua experiência do momento e a apropriar-se de si mesmo.
+              A Gestalt-terapia tem uma visão de homem baseada no existencialismo, que valoriza a subjetividade, a singularidade, a responsabilidade e a vivência e tem como foco principal a existência humana.
+             </p>
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/cfsZP-IHCkk?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </article>
+      </fieldset>
+      </header>
+      </main>
+      <br>
+      <article>
+      </center>
+      <center>
+      <fieldset>
+      
+        <h1><strong> o que posso esperar de uma sessão de terapia?</strong></h1>
+        <p>O que esperar da sua primeira sessão de terapia? Numa primeira sessão de terapia, espera-se que o paciente seja bem recebido. Isso envolve simpatia e empatia por parte do profissional. Também se espera, diante de abordagens mais diretivas como a comportamental, perguntas, muitas perguntas.</p>
+      </fieldset>
+      </center>
+      </article>
+    <center>
+      <p>transferencia com o psicologo </p>
+      <progress></progress>
+      <figure>
+        <div><img src="https://suelenurio.com.br/wp-content/uploads/2019/08/Anim_Psychology1-5a625b6f9e942700366bb7f0.gif" alt="100"></div>
+      </figure>
+    </center>
+    <center>
+    <fieldset>
+    
+     <h1 id="cadastro"><strong> formulario de cadastro </strong></h1>
+    </fieldset>
+    </center>
+  <br>
+<center>
+  <form>
+      <th><tr><strong>*Nome  Completo</strong></tr></th><input>
+  <br>
+      <th><tr><strong>*RG</strong></th><input>
+  <br>
+      <th><tr><strong>*CPF</strong></tr></th><input>
+  <br>
+      <th><tr><strong>*Endereço</strong></tr></th><input>
+   <br>
+      <th><strong>*Numero</strong></th><input>
+  <br>
+      <th><strong>*Complemento</strong></th><input>
+  <br>
+      <strong>*Data e Horario </strong><input type="datetime-local" name="horario" />
+  </center>
+</fieldset>   
+  <br>
+  <center>
+      <th><strongç><strong>Faça um breve resumo sobre voçê, e como se sente?</strong></tr><br>
+  </center>
+  <center>
+      <textarea name="fale sobre vc" id="" cols="30" rows="10"></textarea>
+      <button>enviar</button>
+  </center>
+    <footer>
+      <div class="footer-end">
+        <p class="copyright">
+            Copyright &copy; 2023 <a href="https://www.dio.me" target="_blank">Dio.me</a> - Desafio Trilha HTML | por <a href="https://github.com/cadhi" target="_blank">Mackly Cabral</a>.
+     
+     </footer>
+   </body>
+</html>
